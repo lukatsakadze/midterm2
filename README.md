@@ -59,5 +59,5 @@ The core logic resides in the `Task1` class within the package `oop.mid2.t1`.
 javac src/oop/mid2/t1/Task1.java
 java -cp src oop.mid2.t1.Task1
 ## 📸 Screenshot
-
-![Program Screenshot](screenshots/midtermsreenshot.png)
+midtermsscreenshot.png
+![Program Screenshot](screenshots/midterm_sreenshot.png)
