@@ -51,6 +51,7 @@ The core logic resides in the `Task1` class within the package `oop.mid2.t1`.
 ---
 
 ## Usage
+![midterm_screenshot png](https://github.com/user-attachments/assets/5d182b0b-399e-4d55-afb9-3cc72b82b859)
 
 ### From the Command Line
 
@@ -58,6 +59,5 @@ The core logic resides in the `Task1` class within the package `oop.mid2.t1`.
 # Navigate to the project root (where README.md and src/ reside)
 javac src/oop/mid2/t1/Task1.java
 java -cp src oop.mid2.t1.Task1
-## 📸 Screenshot
-midtermsscreenshot.png
-![Program Screenshot](screenshots/midterm_sreenshot.png)![midterm_screenshot png](https://github.com/user-attachments/assets/2071ba21-632c-4eb8-9eef-4d519b317dae)
+
+![midterm_screenshot png](https://github.com/user-attachments/assets/5d182b0b-399e-4d55-afb9-3cc72b82b859)
