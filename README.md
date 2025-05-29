@@ -60,4 +60,4 @@ javac src/oop/mid2/t1/Task1.java
 java -cp src oop.mid2.t1.Task1
 ## 📸 Screenshot
 midtermsscreenshot.png
-![Program Screenshot](screenshots/midterm_sreenshot.png)
+![Program Screenshot](screenshots/midterm_sreenshot.png)![midterm_screenshot png](https://github.com/user-attachments/assets/2071ba21-632c-4eb8-9eef-4d519b317dae)
